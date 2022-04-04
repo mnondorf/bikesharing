@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Module files
+.ipynb_checkpoints
+201908-citibike-tripdata.csv
+trip_duration_in_minutes.csv
+
+
 # C extensions
 *.so
 
